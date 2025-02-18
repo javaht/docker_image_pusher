@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '00 23 * * *'
+    - cron: '55 8,16 * * *'  # 每天 16:05 和 22:05 执行
 
 
 env:
