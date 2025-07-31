@@ -14,5 +14,6 @@ acryldata/datahub-upgrade:head
 #confluentinc/cp-schema-registry:7.9.2
 #confluentinc/cp-kafka:7.9.2
 #confluentinc/cp-zookeeper:7.9.2
-mysql:8.2
-acryldata/datahub-mysql-setup:head
+#mysql:8.2
+#acryldata/datahub-mysql-setup:head
+opensearchproject/opensearch:2.11.0
