@@ -7,7 +7,7 @@
 #acryldata/datahub-frontend-react:head
 #acryldata/datahub-actions:head
 #acryldata/datahub-gms:head
-datahub-upgrade:head
+#datahub-upgrade:head
 acryldata/datahub-elasticsearch-setup:head
 acryldata/datahub-kafka-setup:head
 elasticsearch:7.10.1
