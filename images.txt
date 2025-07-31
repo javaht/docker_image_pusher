@@ -4,9 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-acryldata/datahub-frontend-react:head
-acryldata/datahub-actions:head
-acryldata/datahub-gms:head
+#acryldata/datahub-frontend-react:head
+#acryldata/datahub-actions:head
+#acryldata/datahub-gms:head
 datahub-upgrade:head
 acryldata/datahub-elasticsearch-setup:head
 acryldata/datahub-kafka-setup:head
