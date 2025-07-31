@@ -4,5 +4,13 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/apache/flink-kubernetes-operator:c703255
-docker.getcollate.io/openmetadata/ingestion:1.7.0
+acryldata/datahub-frontend-react:head
+acryldata/datahub-actions:head
+acryldata/datahub-gms:head
+datahub-upgrade:head
+acryldata/datahub-elasticsearch-setup:head
+acryldata/datahub-kafka-setup:head
+elasticsearch:7.10.1
+confluentinc/cp-schema-registry:7.9.2
+confluentinc/cp-kafka:7.9.2
+confluentinc/cp-zookeeper:7.9.2
