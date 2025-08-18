@@ -16,4 +16,5 @@ acryldata/datahub-upgrade:head
 #confluentinc/cp-zookeeper:7.9.2
 #mysql:8.2
 #acryldata/datahub-mysql-setup:head
-opensearchproject/opensearch:2.11.0
+#opensearchproject/opensearch:2.11.0
+openjdk:8
