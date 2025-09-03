@@ -18,4 +18,5 @@ acryldata/datahub-upgrade:head
 #acryldata/datahub-mysql-setup:head
 #opensearchproject/opensearch:2.11.0
 #openjdk:8
-imlala/ubuntu-xfce-vnc-novnc:latest
+#imlala/ubuntu-xfce-vnc-novnc:latest
+dorowu/ubuntu-desktop-lxde-vnc:latest
