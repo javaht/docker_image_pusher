@@ -20,7 +20,7 @@ acryldata/datahub-upgrade:head
 #openjdk:8
 #imlala/ubuntu-xfce-vnc-novnc:latest
 #dorowu/ubuntu-desktop-lxde-vnc:latest
-#docker.getcollate.io/openmetadata/server:1.8.7
-#docker.getcollate.io/openmetadata/ingestion:1.8.7
-#docker.getcollate.io/openmetadata/db:1.8.7
-docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.9.7
+docker.getcollate.io/openmetadata/ingestion:1.9.7
+docker.getcollate.io/openmetadata/db:1.9.7
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.4
